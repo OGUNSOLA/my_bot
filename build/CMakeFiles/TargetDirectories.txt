@@ -1,0 +1,9 @@
+/home/parallels/ros2_ws/src/my_bot/build/CMakeFiles/uninstall.dir
+/home/parallels/ros2_ws/src/my_bot/build/CMakeFiles/my_bot_uninstall.dir
+/home/parallels/ros2_ws/src/my_bot/build/CMakeFiles/test.dir
+/home/parallels/ros2_ws/src/my_bot/build/CMakeFiles/edit_cache.dir
+/home/parallels/ros2_ws/src/my_bot/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/ros2_ws/src/my_bot/build/CMakeFiles/list_install_components.dir
+/home/parallels/ros2_ws/src/my_bot/build/CMakeFiles/install.dir
+/home/parallels/ros2_ws/src/my_bot/build/CMakeFiles/install/local.dir
+/home/parallels/ros2_ws/src/my_bot/build/CMakeFiles/install/strip.dir
