@@ -38,6 +38,7 @@ def generate_launch_description():
                         output='screen')
 
 
+<<<<<<< HEAD
     diff_drive_spawner = Node(
         package='controller_manager',
         executable='spawner',
@@ -48,11 +49,18 @@ def generate_launch_description():
         executable='spawner',
         arguments=["joint_broad"],
     )
+=======
+
+>>>>>>> ea0bc9d454a1c569f078283ad5b1f082e356bf4f
     # Launch them all!
     return LaunchDescription([
         rsp,
         gazebo,
         spawn_entity,
+<<<<<<< HEAD
         diff_drive_spawner,
         joint_broad_spawner
     ])
+=======
+    ])
+>>>>>>> ea0bc9d454a1c569f078283ad5b1f082e356bf4f
